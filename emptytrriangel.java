@@ -28,7 +28,7 @@ public class emptytrriangel {
 			
 			
 			
-			
+
 			
 			System.out.println();
 	
